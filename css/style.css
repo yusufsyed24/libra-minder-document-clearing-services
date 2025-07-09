@@ -4324,4 +4324,22 @@ ul.theme-ul li img {
     padding-left: 30px !important;
 }
 
+.glitter-text {
+      font-size: 4rem;
+      color: #fff;
+      background: linear-gradient(90deg, #fff, #f0f, #0ff, #fff);
+      background-size: 200% auto;
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      animation: shimmer 2s linear infinite;
+    }
 
+    @keyframes shimmer {
+      0% {
+        background-position: 0% center;
+      }
+      100% {
+        background-position: 200% center;
+      }
+    }
