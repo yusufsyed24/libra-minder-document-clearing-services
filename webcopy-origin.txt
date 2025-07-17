@@ -1,0 +1,716 @@
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\ajax\libs\jquery-validate\1.19.3\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i|Montserrat:200,300,400,400i,500,500i,600,700,800,900&amp;display=swap
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQlV233AvQ.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmQlV233AvQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmRrV233AvQ.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmRrV233AvQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmScUG33AvQ.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmScUG33AvQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmTCUG33AvQ.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmTCUG33AvQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaFF3w.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaFF3w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAaFF3w.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrdyAaFF3w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaFF3w.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaFF3w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v32/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAaFF3w.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\merriweather\v32\u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrOSAaFF3w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://www.ansaardoc.ae/
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\index.htm
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/404-error
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\404-error.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/about-us
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\about-us.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/amer-service-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\amer-service-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/Blog-list
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\Blog-list.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/blogs/amer-service-in-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\blogs\amer-service-in-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/blogs/company-formation-dubai-freezone
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\blogs\company-formation-dubai-freezone.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/blogs/offshore-companies-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\blogs\offshore-companies-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/business-setup-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\business-setup-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/certificate-attestation-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\certificate-attestation-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/company-liquidation-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\company-liquidation-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/contact-us
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\contact-us.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/css/all.min.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/animate.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\animate.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/bootstrap.min.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/color.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\color.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/default.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\default.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/magnific-popup.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/meanmenu.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/nice-select.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\nice-select.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/owl.carousel.min.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/responsive.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/slick.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\slick.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/css/style.css
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\css\style.css
+Content Type: text/css
+
+Uri: https://www.ansaardoc.ae/customs-service-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\customs-service-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/department-economy-in-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\department-economy-in-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/emirates-id-application-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\emirates-id-application-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/golden-visa-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\golden-visa-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/img/about-us.webp
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\about-us.webp
+Content Type: image/webp
+
+Uri: https://www.ansaardoc.ae/img/amer-blog1.jpg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\amer-blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/amer-blog2.jpg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\amer-blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/anemid.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\anemid.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/atte.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\atte.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/banner/bannermin1.webp
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\banner\bannermin1.webp
+Content Type: image/webp
+
+Uri: https://www.ansaardoc.ae/img/Best Business Consultants in Dubai.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\Best Business Consultants in Dubai.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/Best Corporate PRO Services in Dubai, UAE.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\Best Corporate PRO Services in Dubai, UAE.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/bg/about-us.webp
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\bg\about-us.webp
+Content Type: image/webp
+
+Uri: https://www.ansaardoc.ae/img/bg/bg_cta.jpg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\bg\bg_cta.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/bg/bg_cta.webp
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\bg\bg_cta.webp
+Content Type: image/webp
+
+Uri: https://www.ansaardoc.ae/img/blog/blog-1.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\blog-1.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/blog/blog-2.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\blog-2.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/blog/blog-3.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\blog-3.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/blog/company-formation-dubai-freezone-1.webp
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\company-formation-dubai-freezone-1.webp
+Content Type: image/webp
+
+Uri: https://www.ansaardoc.ae/img/blog/company-formation-dubai-freezone-2.webp
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\company-formation-dubai-freezone-2.webp
+Content Type: image/webp
+
+Uri: https://www.ansaardoc.ae/img/blog/offshore-1.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\offshore-1.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/blog/offshore-2.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\blog\offshore-2.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/cl.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\cl.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/client/albalooshi.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\albalooshi.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/aspenlogo.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\aspenlogo.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/binsuwaidan.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\binsuwaidan.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/ceramic.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\ceramic.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/emco.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\emco.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/gfp.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\gfp.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/ghp.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\ghp.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/motus.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\motus.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/nas.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\nas.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/neuron.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\neuron.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/perfect-purity.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\perfect-purity.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/smartedu.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\smartedu.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/client/ssoft.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\client\ssoft.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/custom.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\custom.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/ded.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\ded.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/emgrtn.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\emgrtn.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/favicon.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/branch.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\branch.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/budget.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\budget.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/customer-ded.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\customer-ded.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/customer-sati.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\customer-sati.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/experience.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\experience.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/experize.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\experize.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/location.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\location.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/phone.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\phone.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/icons/team.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\icons\team.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/insur.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\insur.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/loader.gif
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\loader.gif
+Content Type: image/gif
+
+Uri: https://www.ansaardoc.ae/img/logo/logo.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/logo/logo.svg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ansaardoc.ae/img/medical.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\medical.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/ml.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\ml.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/offs-blog.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\offs-blog.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/other.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\other.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/portfolio/1.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\portfolio\1.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/portfolio/2.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\portfolio\2.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/portfolio/3.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\portfolio\3.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/portfolio/4.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\portfolio\4.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/portfolio/5.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\portfolio\5.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/img/resvisa.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\resvisa.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/rta.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\rta.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/service/goldvisa.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\service\goldvisa.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/service/rera.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\service\rera.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/trademark.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\trademark.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/trsltn.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\trsltn.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/img/visit.jpeg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\img\visit.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.ansaardoc.ae/index
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\index.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/insurance-service-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\insurance-service-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/js/bootstrap.bundle.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/contact-1.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\contact-1.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/isotope.pkgd.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery-1.12.4.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery.countdown.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery.counterup.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery.magnific-popup.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery.meanmenu.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery.nice-select.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/jquery.waypoints.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/lightslider.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\lightslider.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/main.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/modernizr-3.5.0.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\modernizr-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/owl.carousel.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/slick.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/sweetalert2.all.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/js/wow.min.js
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.ansaardoc.ae/medical-application-service-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\medical-application-service-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/other-countries-visa-application-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\other-countries-visa-application-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/picture_library/agreement.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\agreement.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/bus.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\bus.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/car.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\car.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/document.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\document.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/driving-test.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\driving-test.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/hand-shake.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\hand-shake.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/insurance.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\insurance.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/lease.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\lease.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/medical-staff.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\medical-staff.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/passport (2).png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\passport (2).png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/passport.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\passport.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/stamp.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\stamp.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/team.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\team.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/picture_library/tick.png
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\picture_library\tick.png
+Content Type: image/png
+
+Uri: https://www.ansaardoc.ae/Portfolio
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\Portfolio.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/pro-services-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\pro-services-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/real-estate-regularity-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\real-estate-regularity-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/residence-visa-in-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\residence-visa-in-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/rta-online-services-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\rta-online-services-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/services
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\services.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/tasheel-services-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\tasheel-services-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/translation-typing-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\translation-typing-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/UAE/trademark-registartion-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\UAE\trademark-registartion-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/visit-visa-dubai
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\visit-visa-dubai.html
+Content Type: text/html
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-brands-400.eot
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-brands-400.svg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-brands-400.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-brands-400.woff
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-brands-400.woff2
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-brands-400d41d.eot?
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-regular-400.eot
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-regular-400.svg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-regular-400.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-regular-400.woff
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-regular-400.woff2
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-regular-400d41d.eot?
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-solid-900.eot
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-solid-900.svg
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-solid-900.ttf
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-solid-900.woff
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-solid-900.woff2
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.ansaardoc.ae/webfonts/fa-solid-900d41d.eot?
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\webfonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LcsWzEgAAAAAJvd2ngCHZnkgNbC2Vih56ukZ__M
+File Name: D:\Downloaded Web Sites\www.ansaardoc.ae\recaptcha\api.js
+Content Type: text/javascript
+
